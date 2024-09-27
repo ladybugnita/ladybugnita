@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nita Dangol.
 - 👀 I’m interested in
-      . Programming and Coding.
+      Programming and Coding.
       .Developing Applications.
 - 🌱 I’m currently learning Java.
 - Programming languages that I have alreadt learned:
